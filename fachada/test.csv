@@ -1,0 +1,8 @@
+Piso,Divisão,Área,Volume,Equipamento,Preço,Área Total,Volume Total,Potência bomba de calor,Número de módulos
+0,Piscina,100.0,8000.0,SL1000,572.91,-,-,-,-
+1,Quarto,40.0,3200.0,SL400,418.72,-,-,-,-
+1,WC,20.0,1600.0,SL200,382.28,-,-,-,-
+1,Sala,60.0,4800.0,SL600,465.43,-,-,-,-
+1,Sala2,80.0,6400.0,SL800,525.25,-,-,-,-
+2,Salao,150.0,12000.0,verificar!, 0,-,-,-,-
+-,-,-,-,-,2364.59,450.0,1215.0,36.0,23
